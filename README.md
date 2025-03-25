@@ -27,13 +27,14 @@
 
 ## 🎮 GIFs Favoritos  
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150px">
-  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="150px">
+  <img src="https://media1.tenor.com/m/2_sCg3fYf3YAAAAd/spiderman-marvelvs-capcom.gif" width="160px">
+  <img src="https://media.tenor.com/Wy9v13xdYqAAAAAj/dance.gif" width="160px">
 </p>
 
 ---
 
 ## 🎵 Spotify - Recently Played  
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default" width="50%">
+ <a href="https://open.spotify.com/user/12168716163">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12168716163&count=1&unique=true" alt="Spotify recently played"  />
 </div>
