@@ -1,6 +1,7 @@
 <br clear="both">
 
-<h2 align="left">Oi 🏸! My name is Paulino and I'm a simple starter programmer, from Brazil</h2>
+<h2 align="left">Oi 🏸!</h2>
+<h2> My name is Paulino and I'm a simple starter programmer, from Brazil </h2>
 
 ###
 
