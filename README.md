@@ -23,9 +23,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
----
 
-## 🎮 GIFs Favoritos  
 <p align="center">
   <img src="https://media1.tenor.com/m/2_sCg3fYf3YAAAAd/spiderman-marvelvs-capcom.gif" width="160px">
   <img src="https://media.tenor.com/Wy9v13xdYqAAAAAj/dance.gif" width="160px">
