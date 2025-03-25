@@ -1,36 +1,39 @@
-<h2 align="center">Oi 🏸!</h2>
-<p align="center">My name is Paulino and I'm a simple starter programmer, from Brazil</p>
+<h1 align="center">Oi! 👋</h1>
 
+<p align="center">
+  My name is Paulino and I'm a simple starter programmer from Brazil.
+</p>
+
+---
+
+## 📊 GitHub Stats & Most Used Languages  
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=thedanielpaulino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedanielpaulino&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=thedanielpaulino&show_icons=true&theme=tokyonight" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedanielpaulino&layout=compact&theme=tokyonight" width="45%">
 </div>
 
-<h3 align="center">Skills 🛠</h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-</div>
+---
 
-<div align="center">
-  <img height="150" src="https://media1.tenor.com/m/2_sCg3fYf3YAAAAd/spiderman-marvelvs-capcom.gif" />
-  <img height="150" src="https://media.tenor.com/Wy9v13xdYqAAAAAj/dance.gif" />
-</div>
+## 🛠 Skills  
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
 
+---
+
+## 🎮 GIFs Favoritos  
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150px">
+  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="150px">
+</p>
+
+---
+
+## 🎵 Spotify - Recently Played  
 <div align="center">
-  <a href="https://open.spotify.com/user/12168716163">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12168716163&count=2&unique=true" alt="Spotify recently played" />
-  </a>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default" width="50%">
 </div>
