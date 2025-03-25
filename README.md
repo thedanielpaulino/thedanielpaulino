@@ -1,38 +1,48 @@
-<h1 align="center">Oi! 👋</h1>
+<br clear="both">
 
-<p align="center">
-  My name is Paulino and I'm a simple starter programmer from Brazil.
-</p>
+<h2 align="left">Oi 🏸! My name is Paulino and I'm a simple starter programmer, from Brazil</h2>
 
----
+###
 
-## 📊 GitHub Stats & Most Used Languages  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thedanielpaulino&show_icons=true&theme=tokyonight" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedanielpaulino&layout=compact&theme=tokyonight" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=thedanielpaulino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thedanielpaulino&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-## 🛠 Skills  
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
+<h3 align="left">Skills 🛠</h3>
 
+###
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/2_sCg3fYf3YAAAAd/spiderman-marvelvs-capcom.gif" width="160px">
-  <img src="https://media.tenor.com/Wy9v13xdYqAAAAAj/dance.gif" width="160px">
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
 
----
+###
 
-## 🎵 Spotify - Recently Played  
+<img align="right" height="150" src="https://media1.tenor.com/m/2_sCg3fYf3YAAAAd/spiderman-marvelvs-capcom.gif"  />
+
+###
+
+<img align="right" height="150" src="https://media.tenor.com/Wy9v13xdYqAAAAAj/dance.gif"  />
+
+###
+
 <div align="center">
- <a href="https://open.spotify.com/user/12168716163">
+  <a href="https://open.spotify.com/user/12168716163">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=12168716163&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
+
+###
